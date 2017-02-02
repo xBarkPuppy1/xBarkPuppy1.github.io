@@ -1,6 +1,4 @@
 <?php
-    require_once("lib/Markdown_Parser.php");
-?>
 <!DOCTYPE html>
 <html>
     <head>
