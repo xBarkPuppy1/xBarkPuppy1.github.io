@@ -1,5 +1,4 @@
-<?php
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
     <head>
         <title>xBarkPuppy1 Website index</title>
